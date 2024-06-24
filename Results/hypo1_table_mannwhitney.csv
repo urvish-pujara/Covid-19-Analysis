@@ -1,0 +1,4 @@
+Variable,Stats,p-value,Result
+sto_n,171535.5,0.010212155794256625,"significant, reject the null hypothesis"
+hyg_n,149924.5,0.6458465329644429,"not significant, fail to reject the null hypothesis"
+int_n,141846.0,0.1543364274108588,"not significant, fail to reject the null hypothesis"

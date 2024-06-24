@@ -1,0 +1,18 @@
+column_name,complete_name,type
+age_n,Age,ordinal
+mar_n,Marital Status,nominal
+sex_n,Sex,nominal
+chi_n,Children,ordinal
+urb_n,Urban/Rural,nominal
+edu_n,Education Level,ordinal
+med_n,Mother Education Level,ordinal
+wor_n,Current Work Status,nominal
+sec_n,Sector,nominal
+occ_n,Occupation,nominal
+foc_n,Parental Occupation during childhood,nominal
+iin_n,Income Level,ordinal
+hin_n,Previous Year Income,ordinal
+hom_n,Home Office Working Conditions,ordinal
+cov_n,Diagnosed with COVID-19,nominal
+int_n,Online Spending Habits,ordinal
+sur_n,All Surveys Question,ordinal

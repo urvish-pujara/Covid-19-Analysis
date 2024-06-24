@@ -1,0 +1,4 @@
+Variable,Chi2,p-value,Dof,Result
+sto_n,6.088586215090142,0.013605791383807528,1,"significant, reject the null hypothesis"
+hyg_n,18.903093224586986,0.0008211566657313519,4,"significant, reject the null hypothesis"
+int_n,6.707053173197473,0.15220296384561216,4,"not significant, fail to reject the null hypothesis"
